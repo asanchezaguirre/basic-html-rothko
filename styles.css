@@ -1,0 +1,57 @@
+
+.container{
+	margin: 0 auto;
+	padding: 15px 30px;
+	width: 80%;
+	border-right: 2px solid black;
+	border-left: 2px solid black;
+}
+h2{
+	color : red;
+	font-weight: lighter;
+}
+.principal{
+  margin : 100px 50px 50px 50px;
+  border : 1px solid black;
+}
+.detalles{
+	color : black;
+}
+.notas{
+	font-size: 11px;
+}
+.pie{
+	font-size: 8px;
+}
+.pintura{
+	width: 1000px;
+	height:300px;
+	display:block;
+}
+.experience{
+	width: 1000px;
+}
+.resumen{
+	text-align: justify;
+	width: 100%;
+}
+.logo{
+	width: 700px;
+	height:30px;
+}
+.river{
+	width: 80px;
+	height:35px;
+}
+.houston{
+	width: 90px;
+	height:35px;
+	vertical-align: baseline;
+}
+img{
+	vertical-align: middle;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
